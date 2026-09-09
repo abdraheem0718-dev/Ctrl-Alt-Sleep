@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix GreenVest",
+  "description": "Evidence-based agroforestry carbon pre-screening and aggregation platform for farmers and carbon project developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
